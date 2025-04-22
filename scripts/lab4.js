@@ -18,6 +18,8 @@ function sumValues(num1, num2, add) {
     }
 }
 
+// This is a useless comment
+
 /**
  * 
  * @param {*} prices, an array of the original price.
